@@ -30,7 +30,12 @@ Sou engenheiro civil e trabalho com projetos estruturais. Em paralelo, desenvolv
 ---
 
 ### 📂 Projetos em destaque
-> Em construção: scripts de automação em Python, OSINT e CTI. Todos para uso ético e autorizado.
+
+Scripts e ferramentas para uso ético e autorizado:
+
+- **[metadados-osint](https://github.com/carlpit/metadados-osint)** — Analisador local de metadados de imagens e documentos (EXIF, PDF, Office) para OSINT ético e revisão de privacidade.
+- **[ioc-extractor](https://github.com/carlpit/ioc-extractor)** — Extrator de IOCs para CTI: URL, domínio, IP, hashes, e-mail, CVE e MITRE ATT&CK, com defang/refang e allowlist.
+- **[vigas-isostaticas](https://github.com/carlpit/vigas-isostaticas)** — Análise de vigas isostáticas: reações, diagramas de esforço cortante e momento fletor, flecha e verificação l/250 (NBR 6118).
 
 ### 📫 Contato
 [LinkedIn](https://linkedin.com/in/engcvini) · [TryHackMe](https://tryhackme.com/p/carlpit)
