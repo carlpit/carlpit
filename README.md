@@ -35,6 +35,7 @@ Scripts e ferramentas para uso ético e autorizado:
 
 - **[metadados-osint](https://github.com/carlpit/metadados-osint)** — Analisador local de metadados de imagens e documentos (EXIF, PDF, Office) para OSINT ético e revisão de privacidade.
 - **[ioc-extractor](https://github.com/carlpit/ioc-extractor)** — Extrator de IOCs para CTI: URL, domínio, IP, hashes, e-mail, CVE e MITRE ATT&CK, com defang/refang e allowlist.
+- **[pits-portscan](https://github.com/carlpit/pits-portscan)** — Scanner TCP de conexão (connect scan): IP, hostname e CIDR, banner grabbing e exportação JSON/CSV.
 - **[vigas-isostaticas](https://github.com/carlpit/vigas-isostaticas)** — Análise de vigas isostáticas: reações, diagramas de esforço cortante e momento fletor, flecha e verificação l/250 (NBR 6118).
 
 ### 📫 Contato
