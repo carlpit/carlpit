@@ -9,7 +9,6 @@ Sou engenheiro civil e trabalho com projetos estruturais. Em paralelo, desenvolv
 ---
 
 ### 🔐 Segurança da informação
-- Estudo contínuo no **TryHackMe** ([carlpit](https://tryhackme.com/p/carlpit)), Top 20%, trilha Cyber Security 101
 - **Klocksec**: Top 5 no ranking geral, certificados em Cibersegurança para Iniciantes e Conscientização em Segurança
 - Interesses: OSINT, CTI, pentest ético em laboratório, hardware hacking e RF
 
